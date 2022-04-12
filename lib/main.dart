@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:latihan4/login.dart';
-import 'package:latihan4/layout.dart';
+import 'package:tugasnav_020/login.dart';
+import 'package:tugasnav_020/layout.dart';
 
 void main() {
   runApp(const MyApp());
